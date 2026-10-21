@@ -1,0 +1,11 @@
+[33mcommit 9bf729d000eadb04c5809c06a4f1aef81fc2ca5f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: 你的名字 <你的邮箱>
+Date:   Fri Sep 11 19:53:01 2026 +0800
+
+    feat: add /user api return user info json
+
+[33mcommit 2f7d6c47da5baab8e6bbd6c8605582d247641738[m
+Author: 你的名字 <你的邮箱>
+Date:   Fri Sep 11 19:44:06 2026 +0800
+
+    feat: setup basic express server and hello world api
